@@ -60,6 +60,7 @@ pin5= machine.Pin(5,machine.Pin.OUT)
 
 # Moduler
 https://pypi.python.org/pypi?%3Aaction=search&term=micropython&submit=search
+threading modul : https://docs.micropython.org/en/latest/pyboard/library/_thread.html#module-_thread
 
 # esp8266 funksjoner
 https://docs.micropython.org/en/latest/pyboard/library/esp.html
