@@ -61,6 +61,9 @@ pin5= machine.Pin(5,machine.Pin.OUT)
 # Moduler
 https://pypi.python.org/pypi?%3Aaction=search&term=micropython&submit=search
 
+# esp8266 funksjoner
+https://docs.micropython.org/en/latest/pyboard/library/esp.html
+
 
 
 # Referanse
