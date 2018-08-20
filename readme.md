@@ -51,6 +51,8 @@ Ingen statisk ip adresse.
 # IDE og filoverføring
 https://www.gitbook.com/book/dfrobot/upycraft/details
 
+direct download link : https://dfrobot.gitbooks.io/upycraft/content/
+
 # GPIO setup
 
 pin4= machine.Pin(4,machine.Pin.IN)  
