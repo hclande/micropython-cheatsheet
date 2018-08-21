@@ -54,7 +54,7 @@ https://www.gitbook.com/book/dfrobot/upycraft/details
 direct download link : https://dfrobot.gitbooks.io/upycraft/content/
 
 # GPIO setup
-
+<img align="left" src="../../raw/master/pinout.png" />
 pin4= machine.Pin(4,machine.Pin.IN)  
 pin5= machine.Pin(5,machine.Pin.OUT)
 
