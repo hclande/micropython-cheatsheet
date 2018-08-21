@@ -55,6 +55,8 @@ direct download link : https://dfrobot.gitbooks.io/upycraft/content/
 
 # GPIO setup
 ![pinout](https://github.com/hclande/micropython-cheatsheet/blob/master/pinout.png)
+
+
 pin4= machine.Pin(4,machine.Pin.IN)  
 pin5= machine.Pin(5,machine.Pin.OUT)
 
